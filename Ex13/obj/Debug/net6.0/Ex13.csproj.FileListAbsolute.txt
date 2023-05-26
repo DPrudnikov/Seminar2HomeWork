@@ -1,0 +1,15 @@
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\Ex13.csproj.AssemblyReference.cache
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\Ex13.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\Ex13.AssemblyInfoInputs.cache
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\Ex13.AssemblyInfo.cs
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\Ex13.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Seminar2Homework\Ex13\bin\Debug\net6.0\Ex13.exe
+E:\GeekBrains\Seminar2Homework\Ex13\bin\Debug\net6.0\Ex13.deps.json
+E:\GeekBrains\Seminar2Homework\Ex13\bin\Debug\net6.0\Ex13.runtimeconfig.json
+E:\GeekBrains\Seminar2Homework\Ex13\bin\Debug\net6.0\Ex13.dll
+E:\GeekBrains\Seminar2Homework\Ex13\bin\Debug\net6.0\Ex13.pdb
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\Ex13.dll
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\refint\Ex13.dll
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\Ex13.pdb
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\Ex13.genruntimeconfig.cache
+E:\GeekBrains\Seminar2Homework\Ex13\obj\Debug\net6.0\ref\Ex13.dll
